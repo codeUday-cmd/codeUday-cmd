@@ -49,7 +49,7 @@ A personal portfolio to showcase my skills and projects.
 ## 🤝 Let's Connect
 
 - 🌐 **Portfolio**: [Coming Soon]
-- 💼 [LinkedIn](https://www.linkedin.com/in/uday-kalse)
+- 💼 [LinkedIn](https://www.linkedin.com/in/uday-kalse-5aa5862b7/)
 - 🐙 [GitHub](https://github.com/uday-kalse)
 
 ---
