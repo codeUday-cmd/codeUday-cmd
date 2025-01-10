@@ -41,8 +41,6 @@ A personal portfolio to showcase my skills and projects.
 
 ---
 
-## 📈 GitHub Stats
-![Udaysinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=uday-kalse&show_icons=true&theme=radical)
 
 ---
 
