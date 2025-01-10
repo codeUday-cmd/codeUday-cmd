@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** and **Full
 
 - 🎓 **Education**: Currently pursuing a Master's in Computer Science.
 - 🌐 **Skills**: JavaScript, React.js, Node.js, MongoDB, Tailwind CSS, SQL, Java.
-- 📫 **Contact**: [udaykalse123@gmail.com](mailto:udaykalse123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/uday-kalse) | [GitHub](https://github.com/uday-kalse)
+- 📫 **Contact**: [udaykalse123@gmail.com](mailto:udaykalse123@gmail.com) | [LinkedIn](https://www.linkedin.com/in/uday-kalse-5aa5862b7/) | [GitHub](https://github.com/uday-kalse)
 - 🌱 **Learning**: React, Redux, and backend development with Node.js.
 - 🎯 **Goal**: To become an expert in full-stack development and contribute to impactful projects.
 - 🖥️ **Interests**: Building web apps, exploring new frameworks, and working on open-source projects.
