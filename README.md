@@ -37,15 +37,7 @@ A personal portfolio to showcase my skills and projects.
 - Built using **React.js** and **Tailwind CSS**.
 - Features animated backgrounds, resume downloads, and responsive design.
 
-### 📊 [Live Polling System](https://github.com/uday-kalse/live-polling)
-A real-time polling app for teachers and students.
-- **Tech Stack**: React, Redux, Express.js, Socket.io.
-- Real-time updates and performance-optimized.
 
-### 📚 [Blog Website](https://github.com/uday-kalse/blog-website)
-A full-stack blog platform to share articles.
-- Built with **React** (frontend) and **Node.js** (backend).
-- Includes authentication and responsive UI.
 
 ---
 
